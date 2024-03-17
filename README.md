@@ -1,4 +1,4 @@
-# transport_benchmarks_metadata-and-machine-learning-use-case
+# Metadata Development and Machine Learning Use Case
 
 This project seeks to examine the usage of machine learning to provide quick and reliable solutions to varieites of the transport equation. For a brief overview of the project goals and results, please see the written report. 
 
