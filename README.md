@@ -1,4 +1,5 @@
 # Metadata Development and Machine Learning Use Case
+by: Thomas King
 
 This project seeks to examine the usage of machine learning to provide quick and reliable solutions to varieites of the transport equation. For a brief overview of the project goals and results, please see the written report. 
 
